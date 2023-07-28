@@ -17,7 +17,6 @@ custom_css:
 
 Static websites built with Jekyll:
 
-- [My website](https://six-two.dev) and its [source code]({{ site.baseurl_my_gitlab }}six-two.gitlab.io)
 - [My projects website (this website)]({{ site.baseurl_hosted }}) and its [source code]({{ site.baseurl_my_github }}six-two.github.io)
 - [My photos](https://photos.six-two.dev)
 
