@@ -1,10 +1,3 @@
-- name: My CV
-  status: Finished
-  app-url: "https://cv.six-two.dev"
-  source-url: "<github>react_cv"
-  description: >-
-    A multilingual (english and german) version of my CV. It also works on mobile!
-
 - name: Contact form
   status: Finished
   app-url: "https://contact.six-two.dev"
