@@ -4,8 +4,7 @@ title: My projects
 permalink: /
 footer: "Last updated in January 2021"
 custom_menu:
-  - { menu_title: "Contact me", url: "https://six-two.dev/#contact" }
-  - { menu_title: "Donate", url: "https://six-two.dev/#send-money" }
+  - { menu_title: "Contact me", url: "https://contact.six-two.dev/" }
 content_class: sectioned
 custom_css:
  - index
